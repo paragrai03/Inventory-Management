@@ -9,7 +9,6 @@
 3.Installation<br>
 4.Usage<br>
 5.Contributing<br>
-6.License<br>
 <br>
 <h2>Features</h2>
 1.Product Management: Users can add new products, update existing ones, and delete products from the inventory.<br>
